@@ -1,6 +1,0 @@
-<menus>
-	<menu title="menu1">
-		<menuitem title="option1" actioncode="000" />
-		<menuitem title="option2" actioncode="001" />
-	</menu>
-</menus>
